@@ -580,7 +580,7 @@ body{
 
 .advantages{
         width: 100%;
-        height: 253vh;
+        height: 115vh;
 }
 .section_top{
         text-align: center;
@@ -642,7 +642,7 @@ body{
 
 .about{
         width: 100%;
-        height: 156vh;
+        height: 68vh;
 }
 .about_bttom{
         display: block;
@@ -664,7 +664,7 @@ body{
 
 .services{
         width: 100%;
-        height: 212vh;
+        height: 102vh;
 }
 .serv_icon{
         height: 50px;
@@ -684,7 +684,7 @@ body{
 
 .protfolio{
         width: 100%;
-        height: 730vh;
+        height: 280vh;
         background: #000;
         color: #fff;
 }
@@ -716,7 +716,7 @@ body{
 }
 .card_one{
         width: 100%;
-        height: 390vh;
+        height: 129vh;
         display: block;
 }
 .card_one img{
@@ -724,15 +724,15 @@ body{
         padding: 0px;
 }
 .card_p_icon{
-        width: 50px;
-        height: 50px;
-        color: #2aee10;
-        border: 2px solid #2aee10;
-        text-align: center;
-        padding: 28px;
-        font-size: 45px;
-        margin: 2vw 18vh;
-        border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    color: #2aee10;
+    border: 2px solid #2aee10;
+    text-align: center;
+    padding: 28px;
+    font-size: 45px;
+    margin: 1vh 30vw;
+    border-radius: 50%;
 }
 .card_p_icon i{
     margin-left: -5px;
@@ -747,7 +747,7 @@ body{
 }
 .people_about_cards{
         width: 100%;
-        height: 305vh;
+        height: 135vh;
         display: block;
 }
 .people_about_P{}
@@ -782,7 +782,7 @@ body{
 .project{
         text-align: center;
         background: #8EC63F;
-        height: 88vh;
+        height: 40vh;
         color: #fff;
 }
 .project h1{
@@ -848,15 +848,12 @@ body{
     font-size: 25px;
     letter-spacing: 2px;
 }
-
-
-
 .footer{
     display: block;
     background: #4f8602;
     color: #fff;
     width: 100%;
-    height: 172vh;
+    height: 75vh;
     padding: 40px 0px;
 }
 .footer_one{
